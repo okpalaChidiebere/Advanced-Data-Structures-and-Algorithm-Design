@@ -1,0 +1,69 @@
+Script started on Fri Nov 06 18:11:34 2015
+ 
+news: OpenSSH
+ 
+Script on hercules[1]% g++ machineLearning.cpp -o machineLearning
+Script on hercules[2]% ./machineLearning
+Person 1: yes
+Person 2: yes
+Person 3: no
+Person 4: no
+Person 5: yes
+Person 6: no
+Script on hercules[3]% g++machineLearning2.cpp -o machimeLearning2
+g++machineLearning2.cpp: Command not found.
+Script on hercules[4]% g++ machineLearning2.cpp -o machineLearning2
+Script on hercules[5]% machineLearning2
+Person 1: unacc
+Person 2: unacc
+Person 3: unacc
+Person 4: unacc
+Person 5: unacc
+Person 6: unacc
+Person 7: unacc
+Person 8: acc
+Person 9: unacc
+Person 10: acc
+Person 11: unacc
+Person 12: acc
+Person 13: unacc
+Person 14: unacc
+Person 15: unacc
+Person 16: acc
+Person 17: acc
+Person 18: acc
+Person 19: acc
+Person 20: unacc
+Person 21: unacc
+Person 22: unacc
+Person 23: unacc
+Person 24: acc
+Person 25: acc
+Person 26: acc
+Person 27: unacc
+Person 28: acc
+Person 29: unacc
+Person 30: unacc
+Person 31: acc
+Person 32: unacc
+Person 33: vgood
+Person 34: acc
+Person 35: acc
+Person 36: vgood
+Person 37: acc
+Person 38: unacc
+Person 39: unacc
+Person 40: unacc
+Person 41: unacc
+Person 42: acc
+Person 43: unacc
+Person 44: acc
+Person 45: acc
+Person 46: good
+Person 47: unacc
+Person 48: good
+Person 49: vgood
+Script on hercules[6]% exit
+exit
+
+script done on Fri Nov 06 18:12:55 2015

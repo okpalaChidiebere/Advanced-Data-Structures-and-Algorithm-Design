@@ -1,0 +1,20 @@
+Script started on Fri Oct 16 19:58:35 2015
+Script on a049401[1]% g++ -o mins minspanningr[Ktree.cpp
+Script on a049401[2]% mins
+Graph is complete. No disconnected elements.
+Script on a049401[3]% g++ -o directed directedgraph.cpp
+Script on a049401[4]% directed
+Script on a049401[5]% -[Kg++ -lm mai[Kai[K[Kin.cpp eigenvector.cpp
+Script on a049401[6]% qa[K[Kls
+4page.log  [0m[01;32mdirected[0m*          eigenvector.cpp  matrix.txt  minspanningtree.cpp
+[01;32ma.out[0m*     directedgraph.cpp  main.cpp         [01;32mmins[0m*       websites.txt
+[mScript on a049401[7]% a.out
+7.210103e-01 
+2.403366e-01 
+5.407575e-01 
+3.605050e-01 
+
+Script on a049401[8]% exit
+exit
+
+Script done on Fri Oct 16 20:00:49 2015

@@ -1,0 +1,13 @@
+Script started on Tue Sep 15 19:38:32 2015
+ 
+news: OpenSSH
+ 
+Script on hercules[1]% ./test2
+Running Tests... Tests Complete. Script on hercules[2]% ls
+main.cpp    part2.log   tree.cpp    tree.o
+main.o      test2*      tree.h      trees.csv
+Script on hercules[3]% cat trees.csv
+1.15625,4.42822,8.34531,12.4347Script on hercules[4]% exit[K[K[K[Kexit
+exit
+
+script done on Tue Sep 15 19:40:46 2015

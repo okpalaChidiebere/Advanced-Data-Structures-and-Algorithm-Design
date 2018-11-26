@@ -1,0 +1,100 @@
+Script started on Sun Dec  6 15:54:03 2015
+Script on a049401[1]% g++ -lrt replicatedworkers.cpp
+Script on a049401[2]% a.out
+Pid: 139994157848352 has started.
+Pid: 139994157848352 has created task 1 in workPoolID 1
+WorkerID 1 has started task 1 from workPoolID 1
+WorkerID 1 has created task 2 in workPoolID 2
+WorkerID 1 has finished task 1 from workPoolID 1
+WorkerID 10 has started task 2 from workPoolID 2
+WorkerID 10 has created task 3 in workPoolID 3
+WorkerID 15 has started task 3 from workPoolID 3
+WorkerID 15 has created task 4 in workPoolID 1
+WorkerID 2 has started task 4 from workPoolID 1
+WorkerID 10 has finished task 2 from workPoolID 2
+WorkerID 2 has created task 5 in workPoolID 2
+WorkerID 6 has started task 5 from workPoolID 2
+WorkerID 6 has created task 6 in workPoolID 3
+WorkerID 6 has finished task 5 from workPoolID 2
+WorkerID 14 has started task 6 from workPoolID 3
+WorkerID 14 has created task 7 in workPoolID 1
+WorkerID 14 has finished task 6 from workPoolID 3
+WorkerID 4 has started task 7 from workPoolID 1
+WorkerID 4 has created task 8 in workPoolID 2
+WorkerID 4 has finished task 7 from workPoolID 1
+WorkerID 7 has started task 8 from workPoolID 2
+WorkerID 7 has created task 9 in workPoolID 3
+WorkerID 7 has finished task 8 from workPoolID 2
+WorkerID 14 has started task 9 from workPoolID 3
+WorkerID 14 has created task 10 in workPoolID 2
+WorkerID 6 has started task 10 from workPoolID 2
+WorkerID 6 has created task 11 in workPoolID 1
+WorkerID 6 has finished task 10 from workPoolID 2
+WorkerID 5 has started task 11 from workPoolID 1
+WorkerID 14 has finished task 9 from workPoolID 3
+WorkerID 15 has finished task 3 from workPoolID 3
+WorkerID 2 has finished task 4 from workPoolID 1
+WorkerID 5 has created task 12 in workPoolID 2
+WorkerID 5 has finished task 11 from workPoolID 1
+WorkerID 7 has started task 12 from workPoolID 2
+WorkerID 7 has created task 13 in workPoolID 1
+WorkerID 5 has started task 13 from workPoolID 1
+WorkerID 7 has finished task 12 from workPoolID 2
+WorkerID 5 has created task 14 in workPoolID 3
+WorkerID 13 has started task 14 from workPoolID 3
+WorkerID 13 has created task 15 in workPoolID 1
+WorkerID 3 has started task 15 from workPoolID 1
+WorkerID 3 has created task 16 in workPoolID 2
+WorkerID 3 has finished task 15 from workPoolID 1
+WorkerID 7 has started task 16 from workPoolID 2
+WorkerID 7 has created task 17 in workPoolID 2
+WorkerID 7 has finished task 16 from workPoolID 2
+WorkerID 7 has started task 17 from workPoolID 2
+WorkerID 5 has finished task 13 from workPoolID 1
+WorkerID 13 has finished task 14 from workPoolID 3
+WorkerID 7 has created task 18 in workPoolID 3
+WorkerID 11 has started task 18 from workPoolID 3
+WorkerID 7 has finished task 17 from workPoolID 2
+WorkerID 11 has created task 19 in workPoolID 1
+WorkerID 1 has started task 19 from workPoolID 1
+WorkerID 1 has created task 20 in workPoolID 3
+WorkerID 14 has started task 20 from workPoolID 3
+WorkerID 1 has finished task 19 from workPoolID 1
+WorkerID 11 has finished task 18 from workPoolID 3
+WorkerID 14 has created task 21 in workPoolID 3
+WorkerID 14 has finished task 20 from workPoolID 3
+WorkerID 11 has started task 21 from workPoolID 3
+WorkerID 11 has created task 22 in workPoolID 2
+WorkerID 6 has started task 22 from workPoolID 2
+WorkerID 6 has created task 23 in workPoolID 2
+WorkerID 6 has finished task 22 from workPoolID 2
+WorkerID 6 has started task 23 from workPoolID 2
+WorkerID 11 has finished task 21 from workPoolID 3
+WorkerID 6 has created task 24 in workPoolID 3
+WorkerID 12 has started task 24 from workPoolID 3
+WorkerID 12 has created task 25 in workPoolID 1
+WorkerID 12 has finished task 24 from workPoolID 3
+WorkerID 1 has started task 25 from workPoolID 1
+WorkerID 1 has finished task 25 from workPoolID 1
+WorkerID 6 has finished task 23 from workPoolID 2
+workerID: 7 has terminated.
+workerID: 2 has terminated.
+workerID: 3 has terminated.
+workerID: 8 has terminated.
+workerID: 4 has terminated.
+workerID: 9 has terminated.
+workerID: 5 has terminated.
+workerID: 1 has terminated.
+workerID: 6 has terminated.
+workerID: 11 has terminated.
+workerID: 15 has terminated.
+workerID: 10 has terminated.
+workerID: 14 has terminated.
+workerID: 13 has terminated.
+workerID: 12 has terminated.
+pid: 139994157848352 has terminated.
+
+Script on a049401[3]% exit
+exit
+
+Script done on Sun Dec  6 15:55:12 2015

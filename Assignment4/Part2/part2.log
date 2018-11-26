@@ -1,0 +1,15 @@
+Script started on Thu Nov 05 14:54:19 2015
+ 
+news: OpenSSH
+ 
+Script on hercules[1]% g++ -c dynamicP.cpp
+Script on hercules[2]% g++ -c testdynamicP.cpp
+Script on hercules[3]% g++ dynamicP.o testdynamicP.o -o main
+Script on hercules[4]% main
+Enter the first string: sc kullandcrossbones
+Enter the second string: lullabiesforbabies
+The longest common subsequence word is "ullarbes"
+Script on hercules[5]% exit
+exit
+
+script done on Thu Nov 05 14:56:41 2015

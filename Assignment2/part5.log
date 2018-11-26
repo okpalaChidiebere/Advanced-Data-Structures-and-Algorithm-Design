@@ -1,0 +1,319 @@
+Script started on Fri Oct 02 02:52:00 2015
+ 
+news: OpenSSH
+ 
+Script on hercules[1]% main
+Leader 1
+  element = MATH105
+  inDegree = 0
+  nextLeader = CS170
+  Follower 1 = CS310
+  Follower 2 = CS210
+  Follower 3 = CS170
+
+Leader 2
+  element = CS170
+  inDegree = 4
+  nextLeader = MATH110
+  Follower 1 = CS271
+  Follower 2 = CS270
+  Follower 3 = CS261
+  Follower 4 = CS250
+  Follower 5 = CS210
+
+Leader 3
+  element = MATH110
+  inDegree = 0
+  nextLeader = CS110
+  Follower 1 = CS310
+  Follower 2 = CS210
+  Follower 3 = CS170
+
+Leader 4
+  element = CS110
+  inDegree = 0
+  nextLeader = CS130
+  Follower 1 = CS271
+  Follower 2 = CS270
+  Follower 3 = CS261
+  Follower 4 = CS170
+
+Leader 5
+  element = CS130
+  inDegree = 0
+  nextLeader = CS210
+  Follower 1 = CS271
+  Follower 2 = CS270
+  Follower 3 = CS250
+  Follower 4 = CS170
+
+Leader 6
+  element = CS210
+  inDegree = 3
+  nextLeader = CS230
+  Follower 1 = CS381
+  Follower 2 = CS340
+  Follower 3 = CS330
+  Follower 4 = CS310
+  Follower 5 = CS306
+  Follower 6 = CS230
+
+Leader 7
+  element = CS230
+  inDegree = 1
+  nextLeader = CS250
+  Follower 1 = CS420
+  Follower 2 = CS400
+  Follower 3 = CS375
+  Follower 4 = CS374
+  Follower 5 = CS372
+  Follower 6 = CS350
+  Follower 7 = CS305
+
+Leader 8
+  element = CS250
+  inDegree = 2
+  nextLeader = CS261
+  Follower 1 = CS345
+
+Leader 9
+  element = CS261
+  inDegree = 5
+  nextLeader = MATH111
+  Follower 1 = CS361
+
+Leader 10
+  element = MATH111
+  inDegree = 0
+  nextLeader = MATH122
+  Follower 1 = CS425
+  Follower 2 = CS261
+
+Leader 11
+  element = MATH122
+  inDegree = 0
+  nextLeader = MATH212
+  Follower 1 = CS425
+  Follower 2 = CS405
+  Follower 3 = CS310
+  Follower 4 = CS261
+
+Leader 12
+  element = MATH212
+  inDegree = 0
+  nextLeader = CS100
+  Follower 1 = CS374
+  Follower 2 = CS361
+  Follower 3 = CS261
+
+Leader 13
+  element = CS100
+  inDegree = 0
+  nextLeader = CS270
+  Follower 1 = CS270
+
+Leader 14
+  element = CS270
+  inDegree = 5
+  nextLeader = ENGL100
+  Follower 1 = CS271
+
+Leader 15
+  element = ENGL100
+  inDegree = 0
+  nextLeader = CS271
+  Follower 1 = CS270
+
+Leader 16
+  element = CS271
+  inDegree = 4
+  nextLeader = CS305
+
+Leader 17
+  element = CS305
+  inDegree = 2
+  nextLeader = CS372
+
+Leader 18
+  element = CS372
+  inDegree = 1
+  nextLeader = CS306
+  Follower 1 = CS473
+  Follower 2 = CS305
+
+Leader 19
+  element = CS306
+  inDegree = 3
+  nextLeader = STAT151
+
+Leader 20
+  element = STAT151
+  inDegree = 0
+  nextLeader = MATH221
+  Follower 1 = CS306
+
+Leader 21
+  element = MATH221
+  inDegree = 0
+  nextLeader = CS310
+  Follower 1 = CS340
+  Follower 2 = CS310
+  Follower 3 = CS306
+
+Leader 22
+  element = CS310
+  inDegree = 5
+  nextLeader = CS330
+  Follower 1 = CS420
+  Follower 2 = CS412
+  Follower 3 = CS411
+  Follower 4 = CS410
+
+Leader 23
+  element = CS330
+  inDegree = 1
+  nextLeader = CS340
+  Follower 1 = CS430
+
+Leader 24
+  element = CS340
+  inDegree = 2
+  nextLeader = CS345
+  Follower 1 = CS425
+  Follower 2 = CS412
+  Follower 3 = CS410
+  Follower 4 = CS405
+
+Leader 25
+  element = CS345
+  inDegree = 1
+  nextLeader = CS350
+
+Leader 26
+  element = CS350
+  inDegree = 1
+  nextLeader = CS361
+
+Leader 27
+  element = CS361
+  inDegree = 3
+  nextLeader = MATH214
+  Follower 1 = CS461
+
+Leader 28
+  element = MATH214
+  inDegree = 0
+  nextLeader = CS374
+  Follower 1 = CS374
+  Follower 2 = CS361
+
+Leader 29
+  element = CS374
+  inDegree = 3
+  nextLeader = CS375
+
+Leader 30
+  element = CS375
+  inDegree = 1
+  nextLeader = CS381
+  Follower 1 = CS470
+
+Leader 31
+  element = CS381
+  inDegree = 1
+  nextLeader = CS400
+
+Leader 32
+  element = CS400
+  inDegree = 1
+  nextLeader = CS402
+  Follower 1 = CS402
+
+Leader 33
+  element = CS402
+  inDegree = 1
+  nextLeader = CS405
+
+Leader 34
+  element = CS405
+  inDegree = 2
+  nextLeader = CS410
+
+Leader 35
+  element = CS410
+  inDegree = 2
+  nextLeader = CS411
+
+Leader 36
+  element = CS411
+  inDegree = 1
+  nextLeader = CS412
+
+Leader 37
+  element = CS412
+  inDegree = 2
+  nextLeader = CS420
+
+Leader 38
+  element = CS420
+  inDegree = 2
+  nextLeader = CS425
+
+Leader 39
+  element = CS425
+  inDegree = 3
+  nextLeader = CS430
+
+Leader 40
+  element = CS430
+  inDegree = 1
+  nextLeader = CS461
+
+Leader 41
+  element = CS461
+  inDegree = 1
+  nextLeader = CS470
+
+Leader 42
+  element = CS470
+  inDegree = 1
+  nextLeader = CS473
+
+Leader 43
+  element = CS473
+  inDegree = 1
+  nextLeader = ENEL387
+
+Leader 44
+  element = ENEL387
+  inDegree = 0
+  nextLeader = CS487
+  Follower 1 = CS487
+
+Leader 45
+  element = CS487
+  inDegree = 1
+  nextLeader = N/A
+
+ENEL387 MATH214 MATH221 STAT151 ENGL100 CS100 MATH212 MATH122 MATH111 CS130 CS110 MATH110 MATH105 CS487 CS170 
+CS270 CS261 CS250 CS210 CS271 CS361 
+CS345 CS381 
+CS340 
+CS330 CS310 CS306 CS230 
+CS461 CS425 
+CS405 
+CS430 
+CS412 
+CS411 
+CS410 
+CS420 
+CS400 
+CS375 CS374 CS372 
+CS350 CS402 
+CS470 
+CS473 
+CS305 
+Script on hercules[2]% exit
+exit
+
+script done on Fri Oct 02 02:52:06 2015

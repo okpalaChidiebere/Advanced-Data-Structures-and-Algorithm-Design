@@ -1,0 +1,10 @@
+Script started on Sat Oct 10 21:34:11 2015
+ 
+news: OpenSSH
+ 
+Script on hercules[1]% g++ -c bst.cppScript on hercules[2]% g++ -c main.cppmain.cpp: In function 'int main()':
+main.cpp:111: warning: NULL used in arithmetic
+main.cpp:181: warning: NULL used in arithmetic
+Script on hercules[3]% g++ main.o bst.o -o mainScript on hercules[4]% ./mainScript on hercules[5]% diff text.txt newtext.txtScript on hercules[6]% exitexit
+
+script done on Sat Oct 10 21:38:14 2015

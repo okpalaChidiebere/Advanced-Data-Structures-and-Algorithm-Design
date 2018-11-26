@@ -1,0 +1,27 @@
+Script started on Thu Nov 05 14:50:16 2015
+ 
+news: OpenSSH
+ 
+Script on hercules[1]% g++ closestPair.cpp -o main
+Script on hercules[2]% main
+1 - random100points.txt
+2 - random100points.txt
+Please choose the input file:1
+
+Closest pair is
+Point 1: 31,13
+Point 2: 31,14
+Distance is: 1
+Script on hercules[3]% main
+1 - random100points.txt
+2 - random100points.txt
+Please choose the input file:2
+
+Closest pair is
+Point 1: 99,25
+Point 2: 99,26
+Distance is: 1
+Script on hercules[4]% exit
+exit
+
+script done on Thu Nov 05 14:50:38 2015

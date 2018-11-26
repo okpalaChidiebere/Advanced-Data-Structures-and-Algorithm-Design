@@ -1,0 +1,87 @@
+Script started on Fri Nov 13 18:46:51 2015
+ 
+news: OpenSSH
+ 
+Script on hercules[1]% g++ part1.cpp -o [art[K[K[K[Kpart1
+Script on hercules[2]% part1
+=======================================================================
+Search for: Pro
+Found 7 times.
+Brute Force  Boyer-Moore   Boyer-Moore(No Jump)   Knuth-Morris-Pratt 
+1850          666          1884                   1831
+=======================================================================
+Search for: $$
+Found 19 times.
+Brute Force  Boyer-Moore   Boyer-Moore(No Jump)   Knuth-Morris-Pratt 
+1876          941          1857                   1820
+=======================================================================
+Search for: associated$$
+Found 0 times.
+Brute Force  Boyer-Moore   Boyer-Moore(No Jump)   Knuth-Morris-Pratt 
+1910          180          1863                   1888
+=======================================================================
+Search for: ;
+Found 36 times.
+Brute Force  Boyer-Moore   Boyer-Moore(No Jump)   Knuth-Morris-Pratt 
+1856         1820          1820                   1820
+=======================================================================
+Search for: sort
+Found 6 times.
+Brute Force  Boyer-Moore   Boyer-Moore(No Jump)   Knuth-Morris-Pratt 
+1894          521          1900                   1869
+=======================================================================
+Search for: Sort
+Found 2 times.
+Brute Force  Boyer-Moore   Boyer-Moore(No Jump)   Knuth-Morris-Pratt 
+1832          516          1900                   1827
+=======================================================================
+Search for: End_
+Found 10 times.
+Brute Force  Boyer-Moore   Boyer-Moore(No Jump)   Knuth-Morris-Pratt 
+1859          502          1850                   1822
+=======================================================================
+Search for: whilst
+Found 0 times.
+Brute Force  Boyer-Moore   Boyer-Moore(No Jump)   Knuth-Morris-Pratt 
+1830          353          1898                   1833
+=======================================================================
+Search for: This program reads a series of words, each of which$$ has an associated page number.  The words are then
+Found 0 times.
+Brute Force  Boyer-Moore   Boyer-Moore(No Jump)   Knuth-Morris-Pratt 
+1781           98          1822                   1826
+=======================================================================
+Search for: ted
+Found 10 times.
+Brute Force  Boyer-Moore   Boyer-Moore(No Jump)   Knuth-Morris-Pratt 
+1910          678          1872                   1877
+=======================================================================
+Search for: I love CS340
+Found 1 times.
+Brute Force  Boyer-Moore   Boyer-Moore(No Jump)   Knuth-Morris-Pratt 
+1869          210          1825                   1849
+=======================================================================
+Search for: Page ( J ) := Pagelist
+Found 1 times.
+Brute Force  Boyer-Moore   Boyer-Moore(No Jump)   Knuth-Morris-Pratt 
+1877          184          1941                   1836
+=======================================================================
+Search for: :=
+Found 14 times.
+Brute Force  Boyer-Moore   Boyer-Moore(No Jump)   Knuth-Morris-Pratt 
+1847          933          1838                   1820
+=======================================================================
+Search for: ed
+Found 15 times.
+Brute Force  Boyer-Moore   Boyer-Moore(No Jump)   Knuth-Morris-Pratt 
+1943          959          1858                   1914
+=======================================================================
+Search for: ( I ) := Very_Large
+Found 2 times.
+Brute Force  Boyer-Moore   Boyer-Moore(No Jump)   Knuth-Morris-Pratt 
+1895          191          1985                   1833
+=======================================================================
+sh: PAUSE: not found
+Script on hercules[3]% [KScript on hercules[3]% exit
+exit
+
+script done on Fri Nov 13 18:47:47 2015

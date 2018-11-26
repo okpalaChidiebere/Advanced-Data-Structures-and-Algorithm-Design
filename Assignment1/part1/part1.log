@@ -1,0 +1,167 @@
+Script started on Tue Sep 15 19:53:08 2015
+Script on a049402[1]% ./test1
+Algorithm Timing Started!
+Iteration counts (with algorithm): 
+3175804 3930147 3938788 3925054 3925827 3926823 3931588 3925019 3933846 3927684 
+Sorted iteration counts (with algorithm): 
+3175804 3925019 3925054 3925827 3926823 3927684 3930147 3931588 3933846 3938788 
+Selected value (with algorithm): 3927684
+Elapsed time (with algorithm): 0.000254603 ms
+Iteration counts (without algorithm): 
+26755986 26768860 26760410 26768680 26759938 26768722 26760011 26768514 26759451 26768943 
+Sorted iteration counts (without algorithm): 
+26755986 26759451 26759938 26760011 26760410 26768514 26768680 26768722 26768860 26768943 
+Selected value (without algorithm): 26768514
+Elapsed time (without algorithm): 3.73573e-05 ms
+Algorithm elapsed time: 0.000217246 ms
+Algorithm Timing Ended!
+Algorithm Timing Started!
+Iteration counts (with algorithm): 
+316469 316617 316525 316617 316463 316564 316498 316615 316469 316700 
+Sorted iteration counts (with algorithm): 
+316463 316469 316469 316498 316525 316564 316615 316617 316617 316700 
+Selected value (with algorithm): 316564
+Elapsed time (with algorithm): 0.00315892 ms
+Iteration counts (without algorithm): 
+26757141 26768598 26759899 26769030 26756725 26768230 26760038 26769072 26759987 26768811 
+Sorted iteration counts (without algorithm): 
+26756725 26757141 26759899 26759987 26760038 26768230 26768598 26768811 26769030 26769072 
+Selected value (without algorithm): 26768230
+Elapsed time (without algorithm): 3.73577e-05 ms
+Algorithm elapsed time: 0.00312156 ms
+Algorithm Timing Ended!
+Algorithm Timing Started!
+Iteration counts (with algorithm): 
+22371 22380 22372 22380 22372 22379 22372 22380 22373 22378 
+Sorted iteration counts (with algorithm): 
+22371 22372 22372 22372 22373 22378 22379 22380 22380 22380 
+Selected value (with algorithm): 22378
+Elapsed time (with algorithm): 0.0446867 ms
+Iteration counts (without algorithm): 
+26754303 26768522 26759917 26766703 26759080 26768203 26759852 26768110 26758181 26768685 
+Sorted iteration counts (without algorithm): 
+26754303 26758181 26759080 26759852 26759917 26766703 26768110 26768203 26768522 26768685 
+Selected value (without algorithm): 26766703
+Elapsed time (without algorithm): 3.73598e-05 ms
+Algorithm elapsed time: 0.0446494 ms
+Algorithm Timing Ended!
+Algorithm Timing Started!
+Iteration counts (with algorithm): 
+1407 1408 1407 1407 1407 1407 1407 1408 1407 1407 
+Sorted iteration counts (with algorithm): 
+1407 1407 1407 1407 1407 1407 1407 1407 1408 1408 
+Selected value (with algorithm): 1407
+Elapsed time (with algorithm): 0.710732 ms
+Iteration counts (without algorithm): 
+26746948 26768584 26759691 26768961 26759750 26768592 26760063 26768301 26759806 26768672 
+Sorted iteration counts (without algorithm): 
+26746948 26759691 26759750 26759806 26760063 26768301 26768584 26768592 26768672 26768961 
+Selected value (without algorithm): 26768301
+Elapsed time (without algorithm): 3.73576e-05 ms
+Algorithm elapsed time: 0.710695 ms
+Algorithm Timing Ended!
+Algorithm Timing Started!
+Iteration counts (with algorithm): 
+90 89 89 89 89 89 89 89 89 89 
+Sorted iteration counts (with algorithm): 
+89 89 89 89 89 89 89 89 89 90 
+Selected value (with algorithm): 89
+Elapsed time (with algorithm): 11.236 ms
+Iteration counts (without algorithm): 
+26644558 26768615 26759845 26768720 26759997 26767827 26760126 26768640 26759410 26768846 
+Sorted iteration counts (without algorithm): 
+26644558 26759410 26759845 26759997 26760126 26767827 26768615 26768640 26768720 26768846 
+Selected value (without algorithm): 26767827
+Elapsed time (without algorithm): 3.73583e-05 ms
+Algorithm elapsed time: 11.2359 ms
+Algorithm Timing Ended!
+Script on a049402[2]% ls
+algorithm1.csv        algorithmTiming1part2.cpp  [0m[01;32mtest1[0m*
+algorithmTiming1.cpp  part1.log                  [01;32mtest2[0m*
+[mScript on a049402[3]% cat algorith[K[K[K[K[K[K[K[K[K[K[K./test2
+Algorithm Timing Started!
+Iteration counts (with algorithm): 
+9319157 11154684 11150676 11314887 11344274 11348274 10105651 9922269 9920939 9922875 
+Sorted iteration counts (with algorithm): 
+9319157 9920939 9922269 9922875 10105651 11150676 11154684 11314887 11344274 11348274 
+Selected value (with algorithm): 11150676
+Elapsed time (with algorithm): 8.96807e-05 ms
+Iteration counts (without algorithm): 
+26755899 26768594 26758761 26768730 26760154 26768700 26759085 26768777 26760580 26769283 
+Sorted iteration counts (without algorithm): 
+26755899 26758761 26759085 26760154 26760580 26768594 26768700 26768730 26768777 26769283 
+Selected value (without algorithm): 26768594
+Elapsed time (without algorithm): 3.73572e-05 ms
+Algorithm elapsed time: 5.23235e-05 ms
+Algorithm Timing Ended!
+Algorithm Timing Started!
+Iteration counts (with algorithm): 
+4353314 4320862 3803814 3809894 3799994 3814222 3805889 3825241 3783167 3764221 
+Sorted iteration counts (with algorithm): 
+3764221 3783167 3799994 3803814 3805889 3809894 3814222 3825241 4320862 4353314 
+Selected value (with algorithm): 3809894
+Elapsed time (with algorithm): 0.000262474 ms
+Iteration counts (without algorithm): 
+26758435 26769179 26760588 26769535 26760466 26767786 26759824 26769932 26761329 26769816 
+Sorted iteration counts (without algorithm): 
+26758435 26759824 26760466 26760588 26761329 26767786 26769179 26769535 26769816 26769932 
+Selected value (without algorithm): 26767786
+Elapsed time (without algorithm): 3.73583e-05 ms
+Algorithm elapsed time: 0.000225116 ms
+Algorithm Timing Ended!
+Algorithm Timing Started!
+Iteration counts (with algorithm): 
+1261417 1199714 1088774 1090052 1091081 1091419 1091071 1106152 1117111 1117471 
+Sorted iteration counts (with algorithm): 
+1088774 1090052 1091071 1091081 1091419 1106152 1117111 1117471 1199714 1261417 
+Selected value (with algorithm): 1106152
+Elapsed time (with algorithm): 0.000904035 ms
+Iteration counts (without algorithm): 
+26758483 26769559 26760387 26769676 26760583 26769163 26760414 26769736 26761005 26769859 
+Sorted iteration counts (without algorithm): 
+26758483 26760387 26760414 26760583 26761005 26769163 26769559 26769676 26769736 26769859 
+Selected value (without algorithm): 26769163
+Elapsed time (without algorithm): 3.73564e-05 ms
+Algorithm elapsed time: 0.000866678 ms
+Algorithm Timing Ended!
+Algorithm Timing Started!
+Iteration counts (with algorithm): 
+320478 316052 313951 314601 314749 314852 315184 316069 315961 316070 
+Sorted iteration counts (with algorithm): 
+313951 314601 314749 314852 315184 315961 316052 316069 316070 320478 
+Selected value (with algorithm): 315961
+Elapsed time (with algorithm): 0.00316495 ms
+Iteration counts (without algorithm): 
+26757948 26769120 26759211 26768896 26760610 26769308 26759545 26769235 26760813 26769238 
+Sorted iteration counts (without algorithm): 
+26757948 26759211 26759545 26760610 26760813 26768896 26769120 26769235 26769238 26769308 
+Selected value (without algorithm): 26768896
+Elapsed time (without algorithm): 3.73568e-05 ms
+Algorithm elapsed time: 0.00312759 ms
+Algorithm Timing Ended!
+Algorithm Timing Started!
+Iteration counts (with algorithm): 
+82424 82209 82170 81597 81430 81462 81641 81805 81780 81808 
+Sorted iteration counts (with algorithm): 
+81430 81462 81597 81641 81780 81805 81808 82170 82209 82424 
+Selected value (with algorithm): 81805
+Elapsed time (with algorithm): 0.0122242 ms
+Iteration counts (without algorithm): 
+26757946 26769002 26760750 26769287 26760220 26768030 26759803 26769180 26760465 26769137 
+Sorted iteration counts (without algorithm): 
+26757946 26759803 26760220 26760465 26760750 26768030 26769002 26769137 26769180 26769287 
+Selected value (without algorithm): 26768030
+Elapsed time (without algorithm): 3.7358e-05 ms
+Algorithm elapsed time: 0.0121868 ms
+Algorithm Timing Ended!
+Script on a049402[4]% ls
+algorithm1.csv  algorithmTiming1.cpp       part1.log  [0m[01;32mtest2[0m*
+algorithm2.csv  algorithmTiming1part2.cpp  [01;32mtest1[0m*
+[mScript on a049402[5]% cat algorithm1.csv
+0.000217246,0.00312156,0.0446494,0.710695,11.2359Script on a049402[6]% cat algr[Korthm2.csv
+cat: algorthm2.csv: No such file or directory
+Script on a049402[7]% cat algorithm2.csb[Kv
+0.000052,0.000225,0.000867,0.003128,0.012187Script on a049402[8]% exit
+exit
+
+Script done on Tue Sep 15 19:58:36 2015
